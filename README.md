@@ -20,3 +20,6 @@ Space Heist is a game created for an individual school project in grade 10. This
 
 ### Destroy the Safe
 ![gameplay](https://github.com/Eircc/Space-Heist/blob/main/game.PNG)
+
+
+project finished: March 31st, 2021
