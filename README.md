@@ -1,5 +1,5 @@
-# Space-Heist
+# Space Heist
 
 ## Description
 
-Space Heist 
+Space Heist is a game created for an individual school project in grade 10. This was my first major project using Python 3 and received a perfect grade, which lead to a final grade of 100 in the course and won me the Academic Achievement Award in the course Introduction to Computer Studies. The game involves a spaceship on a mission to steal back money from aliens, money that was stolen from the humans in the first place. The art and game mechanics were inspired by the era of arcade games in the 1970's to 80's. For more information feel free to email Eric at ericchen12354@gmail.com.
