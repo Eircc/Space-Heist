@@ -7,3 +7,16 @@ Space Heist is a game created for an individual school project in grade 10. This
 ## Images
 
 ### Loading Screen
+![loading screen](https://github.com/Eircc/Space-Heist/blob/main/homescreen.PNG)
+
+### Sign In to Your Account
+![sign in](https://github.com/Eircc/Space-Heist/blob/main/sign%20in.PNG)
+
+### Learn the Controls
+![tutorial](https://github.com/Eircc/Space-Heist/blob/main/tutorial.PNG)
+
+### Choose the Difficulty
+![levels](https://github.com/Eircc/Space-Heist/blob/main/level.PNG)
+
+### Destroy the Safe
+![gameplay](https://github.com/Eircc/Space-Heist/blob/main/game.PNG)
